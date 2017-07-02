@@ -9,6 +9,7 @@
 	</a>
 </div>
 
+# Description
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting games one can play in his spare time. 🎲
 
