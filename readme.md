@@ -9,7 +9,8 @@
 	</a>
 </div>
 
-# Description
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting games one can play in his spare time. 🎲
 
@@ -22,7 +23,7 @@ Pull requests are welcome. Thank you. 💙
 
 - [games](https://github.com/leereilly/games)
 
-# Games 
+<h1 align="center"> Games </h1>
 
 ## [1972: pong 🌐](http://www.wikiwand.com/en/Pong)
 
