@@ -1,7 +1,7 @@
 # Free and non free computer games all can play 💻 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
 ## Description 📕
-Here is a curated list of all the interesting games one can play in one's spare time. 🎲
+Here is a curated list of all the interesting games one can play in one's spare time. 
 
 The prefix number before the name stands for the year in which the game was released.
 
