@@ -109,6 +109,9 @@
 - [The witness (2016)](http://www.wikiwand.com/en/The_Witness_(2016_video_game))
 - [Nier: automata (2017)](http://www.wikiwand.com/en/Nier:_Automata)
 
+## Game help
+- [SearchStone](https://searchstone.io/) - Search Hearthstone cards.
+
 ## Related
 - [Games GitHub list](https://github.com/leereilly/games)
 
