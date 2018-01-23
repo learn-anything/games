@@ -1,6 +1,13 @@
 # Interesting Games [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+## Online games
+- [Online go](https://online-go.com/play)
+- [Thinking chess](http://www.bewitched.com/chess/)
+- [Human benchmark](https://www.humanbenchmark.com/tests/memory)
+- [The ai games](http://theaigames.com/)
+- [Lichess](https://lichess.org/)
+
 ## Computer Games
 - [Pong (1972)](http://www.wikiwand.com/en/Pong)
 - [Snake (1976)](http://www.wikiwand.com/en/Snake)
