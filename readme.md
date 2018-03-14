@@ -113,7 +113,7 @@
 - [SearchStone](https://searchstone.io/) - Search Hearthstone cards.
 
 ## Related
-- [Games GitHub list](https://github.com/leereilly/games)
+- [Games GitHub list](https://github.com/leereilly/games#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).
