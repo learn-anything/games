@@ -7,6 +7,7 @@
 - [Human benchmark](https://www.humanbenchmark.com/tests/memory)
 - [The ai games](http://theaigames.com/)
 - [Lichess](https://lichess.org/)
+- [WarriorJS](https://warrior.js.org/)
 
 ## Computer Games
 - [Pong (1972)](http://www.wikiwand.com/en/Pong)
