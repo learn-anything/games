@@ -1,5 +1,5 @@
 # Awesome Games [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ## Online games
 - [Online go](https://online-go.com/play)
@@ -121,7 +121,7 @@
 - [Games GitHub list](https://github.com/leereilly/games#readme)
 
 ## Contributing
-See [contribution guidelines](contributing.md#contribution-guidelines).
+See [contribution guidelines](CONTRIBUTING.md#contribution-guidelines).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
