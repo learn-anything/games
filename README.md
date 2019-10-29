@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Clones](#clones)
@@ -12,8 +10,6 @@
 - [Game help](#game-help)
 - [Online games](#online-games)
 - [Related](#related)
-
----
 
 ## Clones
 
@@ -80,7 +76,7 @@
 - [Metro 2033 (2010)](<https://en.wikipedia.org/wiki/Metro_2033_(video_game)>)
 - [Minecraft (2011)](https://en.wikipedia.org/wiki/Minecraft)
 - [Nier: automata (2017)](https://en.wikipedia.org/wiki/Nier:_Automata)
-- [Observer (2017)](https://en.wikipedia.org/wiki/Observer_(video_game))
+- [Observer (2017)](<https://en.wikipedia.org/wiki/Observer_(video_game)>)
 - [Ori and the blind forest (2016)](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest)
 - [Overwatch (2016)](<https://en.wikipedia.org/wiki/Overwatch_(video_game)>)
 - [Oxenfree (2016)](https://en.wikipedia.org/wiki/Oxenfree)
@@ -140,8 +136,6 @@
 ## Related
 
 - [Games GitHub list](https://github.com/leereilly/games#readme)
-
----
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
